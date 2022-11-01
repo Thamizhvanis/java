@@ -6,13 +6,13 @@ public class sample1 {
 
 	@Test
 	public static void method1() {
-		System.out.print("This is method1\n");
+		System.out.print("This is method1. This is added by develop\n");
 
 	}
 
 	@Test
 	public static void method2() {
-		System.out.print("This is method2\n");
+		System.out.print("This is method2. This is added by develop\n");
 
 	}
 
